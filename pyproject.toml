@@ -1,0 +1,22 @@
+# put all libraries, in this dependency 
+
+[project]
+name = "AI-GROUP-PROJECT"
+version = "3.14.6"
+description = "A RAG pipeline"
+readme = "README.md"
+requires-python = ">=3.14"
+authors = [
+    { name = "Matthew C", email = "mcantu3@vols.utk.edu }
+]
+license = { text = "MIT" } 
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+]
+
+# 1. Main Application Dependencies (Standard string array [])
+dependencies = [
+    #PUT LIBRARIES (which are dependencies) IN LIKE SO:
+    "pandas"
+    "numpy"
+]
