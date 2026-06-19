@@ -21,7 +21,8 @@ dependencies = [
     "numpy"
     "datasets"
     "sentence-transformers"
-    "faiss-cpu"
+    "ChromaDB"
     "tdqm"
     "transformers"
+    "langchain_text_splitters"
 ]
