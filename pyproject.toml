@@ -7,7 +7,12 @@ description = "A RAG pipeline"
 readme = "README.md"
 requires-python = ">=3.14"
 authors = [
-    { name = "Matthew C", email = "mcantu3@vols.utk.edu }
+    { name = "Matthew C", email = "mcantu3@vols.utk.edu
+        name = "Sri Lalitesh Inampudi" email = "sinampud@vols.utk.edu" 
+      name = "Ghanishth Awasthi" email = "gawasthi@vols.utk.edu"
+      name = "Manav Nagar" email = "mnagar@vols.utk.edu"
+      name = "Whitfield Shepard" email = "wshepar3@vols.utk.edu"
+ }
 ]
 license = { text = "MIT" } 
 classifiers = [
