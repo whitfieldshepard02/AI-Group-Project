@@ -19,4 +19,9 @@ dependencies = [
     #PUT LIBRARIES (which are dependencies) IN LIKE SO:
     "pandas"
     "numpy"
+    "datasets"
+    "sentence-transformers"
+    "faiss-cpu"
+    "tdqm"
+    "transformers"
 ]
