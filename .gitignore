@@ -1,8 +1,7 @@
 .venv/
 
 # Ignore your RAG API keys and database credentials
-.env
-.env.*
+.env*
 
 # Ignore Python internal cache files
 __pycache__/
